@@ -1,9 +1,12 @@
-- title: Weibo
-  url: https://weibo.com/u/7943610008
-  icon: fab fa-weibo
+- title: X
+  url: https://x.com/theprodigal365
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://www.instagram.com/lefilsprodigue256/
+  icon: fab fa-instagram
 - title: GitHub 
-  url: https://github.com/unknownboredom/
+  url: https://github.com/theprodigal365/
   icon: fab fa-github
 - title: Email
-  url: mailto:sugoijosephhan@163.com
+  url: mailto:theprodigal365@gmail.com
   icon: fas fa-envelope
