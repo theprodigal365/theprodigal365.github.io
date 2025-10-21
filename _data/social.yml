@@ -4,12 +4,6 @@
 - title: 微信
   url: /weixin
   icon: fab fa-weixin
-- title: 哔哩哔哩
-  url: https://space.bilibili.com/3493090660714839
-  icon: fab fa-bilibili
-- title: 微信
-  url: /weixin
-  icon: fab fa-weixin
 - title: X (Twitter)
   url: https://x.com/theprodigal365
   icon: fab fa-twitter
@@ -23,5 +17,5 @@
   url: https://github.com/theprodigal365/
   icon: fab fa-github
 - title: Email
-  url: mailto:xiaozuzong233@126.com
+  url: mailto:theprodigal365@gmail.com
   icon: fas fa-envelope
