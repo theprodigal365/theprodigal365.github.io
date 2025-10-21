@@ -4,6 +4,21 @@
 - title: 微信
   url: /weixin
   icon: fab fa-weixin
+- title: 哔哩哔哩
+  url: https://space.bilibili.com/3493090660714839
+  icon: fab fa-bilibili
+- title: 微信
+  url: /weixin
+  icon: fab fa-weixin
+- title: X (Twitter)
+  url: https://x.com/theprodigal365
+  icon: fab fa-twitter
+- title: Instagram
+  url: https://www.instagram.com/lefilsprodigue256/
+  icon: fab fa-instagram  
+- title: YouTube
+  url: https://www.youtube.com/@theprodigal365
+  icon: fab fa-youtube
 - title: GitHub 
   url: https://github.com/theprodigal365/
   icon: fab fa-github
