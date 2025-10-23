@@ -1,7 +1,7 @@
 # Setup
-title: 東南北
-description: "以一滴水，见太阳之光辉。"
-url: https://theprodigal356.github.io
+title: Xiaohueihueeei
+description: "Multum in Parvo."
+url: https://theprodigal365.github.io
 avatar: /images/tx3.jpg
 paginate: 8
 permalink: pretty
@@ -52,6 +52,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: TheProdigal365
+  name: TheProdigal
   url: /about
   email: 
